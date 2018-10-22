@@ -1,0 +1,12 @@
+https://cpanel.hostinger.com.ua/auth
+
+LoGIN       mc_medved@ua.fm
+password    215111
+
+
+FTP сервер	    ftp.power-point.16mb.com
+FTP IP	            31.220.16.142
+FTP порт	    21
+FTP пользователь    u219094321
+FTP пароль	    215111
+Папка для загрузки файлов	public_html
